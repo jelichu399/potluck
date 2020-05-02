@@ -1,0 +1,38 @@
+figcaption {
+    text-align: center;
+    padding: 10px;
+}
+p {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.center {
+    display: block;
+    margin: auto;
+    width: 50%;
+    padding-top: 100px;
+}
+#back {
+    width: 3%;
+}
+#ivy {
+    width: 45%;
+}
+#helena {
+    width: 25%;
+}
+#kasey {
+    width: 45%;
+}
+#jolene {
+    width: 40%;
+}
+#jon {
+    width: 40%;
+}
+#amanda {
+    width: 45%;
+}
+#natalie {
+    width: 55%;
+}
